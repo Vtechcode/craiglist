@@ -1,0 +1,9 @@
+Python
+Django
+HTML
+CSS
+Databases
+Heroku
+Materialize
+Beautiful Soup
+Web Scraping
